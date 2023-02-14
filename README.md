@@ -1,16 +1,17 @@
-### Hi there 👋
-
 <!--
 **kmartellluya/kmartellluya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about nature
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I've had multiple accident 
 -->
+
+### Hi there 👋
+
+- 🔭 I’m currently working on Machine Learning Projects and I have a strong interest in Reinforcement Learning topics.
+- 🌱 I’m currently learning ML and RL with help from my school and friends.
+- 👯 I’m looking to collaborate on open source projects.
+- 😄 My favorite hobby is swimming, biking, and dancing zumba(good cardio exercise).
+
+
